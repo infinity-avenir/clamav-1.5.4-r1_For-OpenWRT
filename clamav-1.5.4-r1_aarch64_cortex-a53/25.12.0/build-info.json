@@ -1,0 +1,12 @@
+{
+  "target": "filogic",
+  "release": "25.12.0",
+  "sdk": "/home/test/Desktop/OpenWRT/clamav/clamav_v2/clamav-openwrt-build/sdks/filogic/7e45a85b4af8af53/openwrt-sdk-25.12.0-mediatek-filogic_gcc-14.3.0_musl.Linux-x86_64",
+  "clamav_version": "1.5.4",
+  "format": "apk",
+  "packages": {
+    "clamav-1.5.4-r1.apk": "899a7edf5322d2eac9d4cb9a272d0fe79b99083f8c398644e7709fbbd6458bf1",
+    "freshclam-1.5.4-r1.apk": "58315348181f4b85ca690141a546876106a8c272c3edaa2cee8ffd91d45907b4",
+    "libclamav-1.5.4-r1.apk": "5f3853b7f4f7b41de55816805a4bcb94f8e6bd81e97ed23330eac65d92affc93"
+  }
+}

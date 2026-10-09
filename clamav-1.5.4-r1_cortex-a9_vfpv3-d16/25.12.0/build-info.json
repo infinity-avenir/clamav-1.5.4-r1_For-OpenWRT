@@ -1,0 +1,12 @@
+{
+  "target": "mvebu",
+  "release": "25.12.0",
+  "sdk": "/home/test/Desktop/OpenWRT/clamav/clamav_v2/clamav-openwrt-build/sdks/mvebu/6f03bf9a8673e461/openwrt-sdk-25.12.0-mvebu-cortexa9_gcc-14.3.0_musl_eabi.Linux-x86_64",
+  "clamav_version": "1.5.4",
+  "format": "apk",
+  "packages": {
+    "clamav-1.5.4-r1.apk": "ec2a05e2d7f61fbeeba0ab7845fb12026ddb9593bd6796a5506d860ad06a6635",
+    "freshclam-1.5.4-r1.apk": "97e9e1e2a1ef0f1e367ceb4bbca294960f8b7d6efcb9b9016a501c11c2f60a17",
+    "libclamav-1.5.4-r1.apk": "d8ff43831d6d52533fd09b6239862cc8f803cd45f0b3149e2773d5d812fd3cc8"
+  }
+}
